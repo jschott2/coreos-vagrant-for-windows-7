@@ -213,7 +213,7 @@ puts "configuring provider"
 # This configures a sync folder from the host to the guest.
 ##########################################################################################  
 	
-#	config.vm.synced_folder "/cygwin64/home/jwsii/shared", "/home/core/share2/", type: "rsync"
+#	config.vm.synced_folder "/cygwin64/home/jwsii/shared", "/home/core/share/", type: "rsync"
 	config.vm.synced_folder "./shared", "/home/core/share2/", type: "rsync"
 
 #Yea! rsync works but requires install of a package.  I used cygwin.
