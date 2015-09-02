@@ -1,5 +1,6 @@
 # coreos-vagrant-for-windows-7
 Initial save of Windows 7 coreos-vagrant
+
 1	Background
 Being frustrated trying to get a quick working environment for CoreOS and was intrigued by the claim that using Vagrant would allow CoreOS run on a laptop initiated this foray.  The problem is that most of the documentation out there is focused on the Linux / Apple communities and those of us coming from the Windows community are quite a bit behind the curve in familiarization and support.  We are all on the bleeding edge of this technology so we will take quite a few bumps and more so being the redheaded step child.  
 Note:  At least a month of playing with CoreOS, Docker and RancherOS on a VMWare ESX 5.5 and Hyper-V 2008R2 that was upgraded to Hyper-V 2012R2 has been conducted before this venture into coreos-vagrant.  Having to play DEV-OPS and have less time to explore CoreOS / Docker is a source of frustration.   CoreOS-Vagrant working on Windows 7 was not straight forward and much time and effort in researching a path through the set up prevents the Docker playground time.
