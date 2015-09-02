@@ -214,7 +214,7 @@ puts "configuring provider"
 ##########################################################################################  
 	
 #	config.vm.synced_folder "/cygwin64/home/jwsii/shared", "/home/core/share/", type: "rsync"
-	config.vm.synced_folder "./shared", "/home/core/share2/", type: "rsync"
+	config.vm.synced_folder "./shared", "/home/core/share/", type: "rsync"
 
 #Yea! rsync works but requires install of a package.  I used cygwin.
 
