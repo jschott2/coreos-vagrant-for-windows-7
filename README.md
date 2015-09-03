@@ -7,10 +7,10 @@ Initial working version of installing coreos-vagrant on Windows 7 with folder sh
 
 * [VirtualBox][virtualbox] 4.3.10 or greater.
 * [Vagrant][vagrant] 1.6 or greater.
-* ([GitHub][GitHub Desktop])
-* ([PuTTY][PuTTY]) 0.64 or greater.
-* ([Cygwin][cwgwin]) 
-* ([apple][bonjour])
+* [GitHub][GitHub Desktop]
+* [PuTTY][PuTTY] 0.64 or greater.
+* [Cygwin][cwgwin] 
+* [apple][bonjour]
 
 2) Clone this project and get it running!
 
