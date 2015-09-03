@@ -43,9 +43,13 @@ Once saved the configuration is stored in PuTTY so you can always return to this
 [virtualbox]: https://www.virtualbox.org/
 [vagrant]: https://www.vagrantup.com/downloads.html
 [using-coreos]: http://coreos.com/docs/using-coreos/
+
 [GitHub][GitHub Desktop]: https://desktop.github.com/
+
 [PuTTY][PuTTY]: http://www.putty.org/
+
 [Cygwin][cwgwin]: https://cygwin.com/install.html  (see: http://www.howtogeek.com/175008/the-non-beginners-guide-to-syncing-data-with-rsync/)
+
 [apple][bonjour]: https://support.apple.com/kb/DL999?locale=en_US
 
 #### Shared Folder Setup
