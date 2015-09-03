@@ -15,7 +15,7 @@ Initial working version of installing coreos-vagrant on Windows 7 with folder sh
 2) Clone this project and get it running!
 
 ```
-git clone https://github.com/coreos/coreos-vagrant/
+git clone https://github.com/jschott2/coreos-vagrant/
 cd coreos-vagrant
 ```
 
